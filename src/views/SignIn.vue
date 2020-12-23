@@ -7,9 +7,7 @@
       <div class="bold Alphitter">登入 Alphitter</div>
     </div>
     <div class="form1">
-
       <form @submit.stop.prevent="handleSubmit">
-
         <div class="mb-3 label-parents">
           <input
             v-model="email"
@@ -19,10 +17,9 @@
             aria-describedby="emailHelp"
             placeholder="帳號"
             style="width: 540px; height: 50px"
-            v-model="email"
             required
           />
-
+          <!-- v-model="email" -->
           <label for="exampleInputEmail1" class="form-label">帳號</label>
           <div id="emailHelp" class="form-text"></div>
         </div>
@@ -35,13 +32,12 @@
             id="exampleInputPassword1"
             placeholder="密碼"
             style="width: 540px; height: 50px"
-            v-model="password"
             required
           />
+          <!-- v-model="password" -->
 
           <label for="exampleInputPassword1" class="form-label">密碼</label>
         </div>
-
 
         <button
           style="width: 540px; height: 50px"
@@ -77,7 +73,6 @@
 </template>
 
 <script>
-
 import authorizationAPI from "../apis/authorization.js";
 import { Toast } from "../utils/helpers.js";
 export default {
