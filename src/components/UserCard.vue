@@ -20,7 +20,7 @@
                   <p class="account color3">@{{ adminUser.account }}</p>
                 </div>
 
-                <div>
+                <div class="icon">
                   <div class="d-flex flex-row vector">
                     <div class="d-flex flex-row">
                       <div class="mr-1">
@@ -66,245 +66,7 @@
           </div>
           <!-- 1 -->
         </div>
-
-        <div>
-          <div class="card" style="width: 245px; height: 314px">
-            <div class="icon-relative">
-              <img
-                src="https://i.postimg.cc/YC7LLGvQ/Rectangle-28-2.png"
-                class="card-img-top"
-                alt=""
-              />
-              <p class="circle3"></p>
-              <img
-                src="https://i.postimg.cc/bvQnFx4C/Photo-3.png"
-                alt=""
-                class="thumbnail3"
-              />
-            </div>
-            <div class="card-body">
-              <div class="card-text">
-                <p class="bold">John Doe</p>
-                <p class="account color3">@heyjohn</p>
-              </div>
-
-              <div>
-                <div class="d-flex flex-row vector">
-                  <div class="d-flex flex-row">
-                    <div class="mr-1">
-                      <img
-                        src="https://i.postimg.cc/65Z7T5qC/Vector-3.png"
-                        alt=""
-                      />
-                    </div>
-                    <div class="mr-3">
-                      <p>1.5k</p>
-                    </div>
-                  </div>
-
-                  <div class="d-flex flex-row">
-                    <div class="mr-1">
-                      <img
-                        src="https://i.postimg.cc/Jhp0SsYC/Vector-2.png"
-                        alt=""
-                      />
-                    </div>
-                    <p>20k</p>
-                  </div>
-                </div>
-                <!-- 1 -->
-
-                <div class="d-flex flex-row follow test">
-                  <div class="mr-2">34個<span class="color3">跟隨中</span></div>
-                  <div>59位<span class="color3">跟隨者</span></div>
-                </div>
-              </div>
-            </div>
-            <!-- card-body -->
-          </div>
-          <!-- card -->
-        </div>
-        <!-- 1 -->
-
-        <div>
-          <div class="card" style="width: 245px; height: 314px">
-            <div class="icon-relative">
-              <img
-                src="https://i.postimg.cc/YC7LLGvQ/Rectangle-28-2.png"
-                class="card-img-top"
-                alt=""
-              />
-              <p class="circle3"></p>
-              <img
-                src="https://i.postimg.cc/bvQnFx4C/Photo-3.png"
-                alt=""
-                class="thumbnail3"
-              />
-            </div>
-            <div class="card-body">
-              <div class="card-text">
-                <p class="bold">John Doe</p>
-                <p class="account color3">@heyjohn</p>
-              </div>
-
-              <div>
-                <div class="d-flex flex-row vector">
-                  <div class="d-flex flex-row">
-                    <div class="mr-1">
-                      <img
-                        src="https://i.postimg.cc/65Z7T5qC/Vector-3.png"
-                        alt=""
-                      />
-                    </div>
-                    <div class="mr-3">
-                      <p>1.5k</p>
-                    </div>
-                  </div>
-
-                  <div class="d-flex flex-row">
-                    <div class="mr-1">
-                      <img
-                        src="https://i.postimg.cc/Jhp0SsYC/Vector-2.png"
-                        alt=""
-                      />
-                    </div>
-                    <p>20k</p>
-                  </div>
-                </div>
-                <!-- 1 -->
-
-                <div class="d-flex flex-row follow">
-                  <div class="mr-2">34個<span class="color3">跟隨中</span></div>
-                  <div>59位<span class="color3">跟隨者</span></div>
-                </div>
-              </div>
-            </div>
-            <!-- card-body -->
-          </div>
-          <!-- card -->
-        </div>
-        <!-- 1 -->
-
-        <div>
-          <div class="card" style="width: 245px; height: 314px">
-            <div class="icon-relative">
-              <img
-                src="https://i.postimg.cc/YC7LLGvQ/Rectangle-28-2.png"
-                class="card-img-top"
-                alt=""
-              />
-              <p class="circle3"></p>
-              <img
-                src="https://i.postimg.cc/bvQnFx4C/Photo-3.png"
-                alt=""
-                class="thumbnail3"
-              />
-            </div>
-            <div class="card-body">
-              <div class="card-text">
-                <p class="bold">John Doe</p>
-                <p class="account color3">@heyjohn</p>
-              </div>
-
-              <div>
-                <div class="d-flex flex-row vector">
-                  <div class="d-flex flex-row">
-                    <div class="mr-1">
-                      <img
-                        src="https://i.postimg.cc/65Z7T5qC/Vector-3.png"
-                        alt=""
-                      />
-                    </div>
-                    <div class="mr-3">
-                      <p>1.5k</p>
-                    </div>
-                  </div>
-
-                  <div class="d-flex flex-row">
-                    <div class="mr-1">
-                      <img
-                        src="https://i.postimg.cc/Jhp0SsYC/Vector-2.png"
-                        alt=""
-                      />
-                    </div>
-                    <p>20k</p>
-                  </div>
-                </div>
-                <!-- 1 -->
-
-                <div class="d-flex flex-row follow">
-                  <div class="mr-2">34個<span class="color3">跟隨中</span></div>
-                  <div>59位<span class="color3">跟隨者</span></div>
-                </div>
-              </div>
-            </div>
-            <!-- card-body -->
-          </div>
-          <!-- card -->
-        </div>
-        <!-- 1 -->
-
-        <div>
-          <div class="card" style="width: 245px; height: 314px">
-            <div class="icon-relative">
-              <img
-                src="https://i.postimg.cc/YC7LLGvQ/Rectangle-28-2.png"
-                class="card-img-top"
-                alt=""
-              />
-              <p class="circle3"></p>
-              <img
-                src="https://i.postimg.cc/bvQnFx4C/Photo-3.png"
-                alt=""
-                class="thumbnail3"
-              />
-            </div>
-            <div class="card-body">
-              <div class="card-text">
-                <p class="bold">John Doe</p>
-                <p class="account color3">@heyjohn</p>
-              </div>
-
-              <div>
-                <div class="d-flex flex-row vector">
-                  <div class="d-flex flex-row">
-                    <div class="mr-1">
-                      <img
-                        src="https://i.postimg.cc/65Z7T5qC/Vector-3.png"
-                        alt=""
-                      />
-                    </div>
-                    <div class="mr-3">
-                      <p>1.5k</p>
-                    </div>
-                  </div>
-
-                  <div class="d-flex flex-row">
-                    <div class="mr-1">
-                      <img
-                        src="https://i.postimg.cc/Jhp0SsYC/Vector-2.png"
-                        alt=""
-                      />
-                    </div>
-                    <p>20k</p>
-                  </div>
-                </div>
-                <!-- 1 -->
-
-                <div class="d-flex flex-row follow">
-                  <div class="mr-2">34個<span class="color3">跟隨中</span></div>
-                  <div>59位<span class="color3">跟隨者</span></div>
-                </div>
-              </div>
-            </div>
-            <!-- card-body -->
-          </div>
-          <!-- card -->
-        </div>
-        <!-- 1 -->
       </div>
-
-      <!-- class="d-flex flex-row"    -->
     </ul>
   </div>
 </template>
@@ -351,6 +113,10 @@ export default {
 }
 .icon-relative {
   position: relative;
+}
+.icon {
+  margin-top: -10px;
+  margin-left: 8px;
 }
 .circle3 {
   /* border: 1px solid red; */

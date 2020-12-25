@@ -110,7 +110,7 @@ export default {
       account: "",
       name: "",
       email: "",
-      password: "",
+      // password: "",
       isProcessing: false,
     };
   },
@@ -131,8 +131,8 @@ export default {
         (this.id = id),
           (this.account = account),
           (this.name = name),
-          (this.email = email),
-          (this.password = password);
+          (this.email = email);
+        // (this.password = password);
       } catch (error) {
         console.log("error", error);
       }
